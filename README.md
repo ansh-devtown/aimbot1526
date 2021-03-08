@@ -5,5 +5,5 @@
 - 🔭 I’m currently working on Mern Stack.
 - 🌱 I’m currently learning Java Data structures and Algorithms.
 - 🤔 I’m looking for internship right now.
-- ⚡ 2020 Goal: Contribute to open source projects.
+- ⚡ Goal: Contribute to open source projects.
 
